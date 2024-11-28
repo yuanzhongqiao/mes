@@ -1,32 +1,28 @@
-<a href="https://qcadoo.com"><img src="https://cloud.githubusercontent.com/assets/513146/25782749/bc50ca98-3350-11e7-8837-64fde0f16d48.png" alt="qcadoo MES" /></a>
-![beautiful screenshot](https://cloud.githubusercontent.com/assets/513146/25784436/63e0b7c0-336d-11e7-8124-75f860e6f1f0.png)
-# qcadoo MES
-
-qcadoo MES is an Internet application for production management targeted at small and medium companies.It combines the functions of large ERP systems, adapting it to the specific character of Small and Medium Companies.
-
-## Quick start
-
-Choose one of the following options:
-
-1. Download the latest binary stable release from
-   [GitHub Releases](https://github.com/qcadoo/mes/releases/latest)
-2. Build qcadoo MES from sources
-   with [this instruction](https://qcadoo.atlassian.net/wiki/display/QCDMESDOC/Building+MES+from+source+code+-+tutorial)
-
-## Community vs Commercial version
-
-qcadoo MES comes in two different versions:
-- Community version - the Open Source version from this repo
-- Commercial version - the version developed and sold by [Qcadoo Limited](https://qcadoo.com/en/)
-
-
-Commercial version provides i.e.
-- full support
-- SaaS deployment
-- REST API for integration
-- ready integration modules with popular ERP software, Pipedrive, SCADA
-- additional features (like i.e. Gantt planning, warehouse material flow, maintenance planning module and others)
-
-## Licensing
-
-The code is available under the [GNU AGPLv3](LICENSE.txt).
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a href="https://qcadoo.com" rel="nofollow"><img src="https://cloud.githubusercontent.com/assets/513146/25782749/bc50ca98-3350-11e7-8837-64fde0f16d48.png" alt="qcadoo MES 公司" style="max-width: 100%;" _mstalt="119873" _msthash="203"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://cloud.githubusercontent.com/assets/513146/25784436/63e0b7c0-336d-11e7-8124-75f860e6f1f0.png"><img src="https://cloud.githubusercontent.com/assets/513146/25784436/63e0b7c0-336d-11e7-8124-75f860e6f1f0.png" alt="美丽的屏幕截图" style="max-width: 100%;" _mstalt="428571" _msthash="204"></a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9206041" _msthash="205">qcadoo MES 公司</h1><a id="user-content-qcadoo-mes" class="anchor" aria-label="永久链接：qcadoo MES" href="#qcadoo-mes" _mstaria-label="378378" _msthash="206"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="705626337" _msthash="207">qcadoo MES 是一款面向中小型公司的生产管理互联网应用程序。它结合了大型 ERP 系统的功能，使其适应中小型公司的具体特点。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="11905335" _msthash="208">快速开始</h2><a id="user-content-quick-start" class="anchor" aria-label="永久链接： 快速入门" href="#quick-start" _mstaria-label="446966" _msthash="209"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="42067246" _msthash="210">选择以下选项之一：</p>
+<ol dir="auto">
+<li _msttexthash="119292394" _msthash="211">从 <a href="https://github.com/qcadoo/mes/releases/latest" _istranslated="1">GitHub Releases</a> 下载最新的二进制稳定版本</li>
+<li _msttexthash="49809708" _msthash="212">从源构建 qcadoo MES
+使用此<a href="https://qcadoo.atlassian.net/wiki/display/QCDMESDOC/Building+MES+from+source+code+-+tutorial" rel="nofollow" _istranslated="1">指示</a></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="22245912" _msthash="213">社区版与商业版</h2><a id="user-content-community-vs-commercial-version" class="anchor" aria-label="永久链接：社区版与商业版" href="#community-vs-commercial-version" _mstaria-label="1338155" _msthash="214"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="70161676" _msthash="215">qcadoo MES 有两个不同的版本：</p>
+<ul dir="auto">
+<li _msttexthash="66989806" _msthash="216">社区版本 - 此存储库中的开源版本</li>
+<li _msttexthash="91563238" _msthash="217">商业版 - 由 <a href="https://qcadoo.com/en/" rel="nofollow" _istranslated="1">Qcadoo Limited</a> 开发和销售的版本</li>
+</ul>
+<p dir="auto" _msttexthash="17057443" _msthash="218">商业版提供即</p>
+<ul dir="auto">
+<li _msttexthash="12252357" _msthash="219">全面支持</li>
+<li _msttexthash="10434164" _msthash="220">SaaS 部署</li>
+<li _msttexthash="17043039" _msthash="221">用于集成的 REST API</li>
+<li _msttexthash="115048856" _msthash="222">与流行的 ERP 软件 Pipedrive、SCADA 的现成集成模块</li>
+<li _msttexthash="192019529" _msthash="223">附加功能（如甘特图规划、仓库物料流、维护计划模块等）</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4995627" _msthash="224">发 牌</h2><a id="user-content-licensing" class="anchor" aria-label="永久链接： 许可" href="#licensing" _mstaria-label="400894" _msthash="225"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="41331797" _msthash="226">该代码可在 <a href="/qcadoo/mes/blob/master/LICENSE.txt" _istranslated="1">GNU AGPLv3</a> 下获得。</p>
+</article></div>
